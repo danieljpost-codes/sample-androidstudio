@@ -1,2 +1,2 @@
 # sample-androidstudio
-First attempt at an Android App
+First attempt in 2024 at an Android App
